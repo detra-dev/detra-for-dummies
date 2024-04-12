@@ -17,7 +17,7 @@
 <ul>
   <li>
       <h3>Beekeeper Studio</h3>
-      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.beekeeperstudio.io%2Fpress%2F&psig=AOvVaw0AZqJ2F5PkN37WZkMFPdhE&ust=1713027671378000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiej8CTvYUDFQAAAAAdAAAAABAE" alt="Beekeeper Studio" width="100" height="100">
+      <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/03/512x512_4JGJ8f7.png" alt="Beekeeper Studio" width="100" height="100">
       <p>Beekeeper Studio é uma ferramenta de gerenciamento de banco de dados SQL de código aberto e multiplataforma, que oferece uma interface fácil de usar para interagir com bancos de dados MySQL, PostgreSQL, SQLite e outros.</p>
   </li>
   <li>
