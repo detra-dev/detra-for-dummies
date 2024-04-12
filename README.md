@@ -1,26 +1,28 @@
-# Estágio de Sobrevivência no Departamento de TI
+# Sobrevivência no Departamento de Transporte
 
 ## Bem-vindo ao Caos Controlado!
 
-Se você chegou até aqui, parabéns! Você está prestes a embarcar em uma jornada hilária e desafiadora no mundo do Departamento de TI. Prepare-se para aprender, rir e, acima de tudo, sobreviver!
+Se você chegou até aqui, parabéns! Você está prestes a embarcar em uma jornada no mundo do Departamento de Transporte. Prepare-se para aprender a sobreviver!
 
 ### Requisitos de Sobrevivência:
 
 1. **Café, Café e Mais Café:** Antes de mais nada, aprenda a apreciar o elixir da vida: café! Este será seu combustível principal para enfrentar longas horas de solução de problemas.
 
-2. **Google-Fu Afiado:** Domine a arte da busca no Google. 90% do trabalho em TI é saber o que pesquisar no Google quando tudo dá errado. Lembre-se: "Let me Google that for you" é uma habilidade valiosa.
+2. **Chat GPT Afiado:** Domine a arte de interagir com o Chat GPT. 90% do trabalho em TI é saber como formular as perguntas certas para obter as respostas necessárias.
 
-3. **Conversas em Jargão:** Aprenda a falar em acrônimos e termos técnicos indecifráveis. Isso pode não fazer sentido para você, mas fará você parecer inteligente para os outros.
-
-4. **Amor pelos Pings:** Descubra a alegria de "pingar" dispositivos aleatórios na rede. Porque, afinal, quem não ama uma boa resposta de "Destination Host Unreachable"?
+3. **Parecer que sabe:** Aprenda a falar em acrônimos e termos técnicos indecifráveis. Isso pode não fazer sentido para você, mas fará você parecer inteligente para os outros.
+   
+3. **Respeite a hierarquia:** Diego (calvo), Bruno (calvo), Lucas (óculos), Mari (mulher), Luciana, Jhonatan (Alto), Estágiario senior, Estagiário pleno, Estágiario junior, Estágiario estágiario (você).
 
 ### Rituais de Iniciação:
 
-1. **Batalha do Cabo de Rede:** Seu primeiro desafio é enrolar e desenrolar um cabo de rede em menos de 60 segundos. Este teste de destreza é crucial para todas as situações de emergência que envolvem cabos emaranhados.
+1. **Churrasco:** Todo mundo que entra, paga um churrasco, todo mundo que sai, churrasco.
 
-2. **Mural de Memes:** Contribua com pelo menos um meme relacionado à TI por semana para o mural do departamento. O humor é a nossa válvula de escape para os momentos de pico de estresse.
+2. **Mural de X:** Se você fizer cagada você vai tomar um X. Se você achar que fez cagada você leva um X. Se acharmos que você fez cagada, X (5x pão de queijo).
 
-3. **Resolução de Incidentes Simulados:** Prepare-se para lidar com "incidentes" falsos criados pelos veteranos do departamento. Eles vão testar sua calma, habilidades de solução de problemas e, é claro, seu senso de humor.
+3. **Apelido:** Prepare-se para ser chamado carinhosamente pela sua pior caracteristica.
+   
+3. **Fazer café:** Já que você não ajuda muito, faz café (estágiario mais novo).
 
 ### Tarefas do Dia-a-Dia:
 
@@ -38,6 +40,8 @@ Se você chegou até aqui, parabéns! Você está prestes a embarcar em uma jorn
 
 - **Playlist de Músicas para Resolver Problemas:** Tenha uma playlist pronta com músicas motivacionais para os momentos de crise. "Eye of the Tiger" é altamente recomendada.
 
-Boa sorte, jovem padawan da TI! Que a força esteja com você enquanto navega pelos perigos e alegrias do Departamento de TI.
+Boa sorte, jovem padawan! Que a força esteja com você enquanto navega pelos perigos e alegrias do Departamento de TI.
+
+Qualquer dúvida peça para falar com a Luciane do TI.
 
 # detra-for-dummies
