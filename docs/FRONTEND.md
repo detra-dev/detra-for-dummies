@@ -37,7 +37,7 @@
     </li>
     <li>
         <h3>Tailwind CSS</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="100" height="100">
         <p>Framework CSS utilitário para criação de designs customizados sem escrever CSS personalizado.</p>
         <a href="https://tailwindcss.com/docs">Documentação</a>
     </li>
@@ -49,7 +49,7 @@
     </li>
     <li>
         <h3>Axios</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" alt="Axios" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain-wordmark.svg" alt="Axios" width="100" height="100">
         <p>Cliente HTTP baseado em Promises para o navegador e Node.js.</p>
         <a href="https://axios-http.com/docs/intro">Documentação</a>
     </li>
