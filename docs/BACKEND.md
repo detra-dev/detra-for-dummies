@@ -25,7 +25,7 @@
     </li>
     <li>
         <h3>Laravel</h3>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="100" height="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="100" height="100">
         <p>Um framework PHP elegante e expressivo para desenvolvimento web.</p>
         <a href="https://laravel.com/docs">Documentação</a>
     </li>
